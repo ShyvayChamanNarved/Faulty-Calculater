@@ -1,5 +1,5 @@
 #Faulty Calculator
-#45*3=555, 56+9=77,56/6=4
+#faulty values: 45*3=555, 56+9=77,56/6=4
 
 num1=int(input("Enter first value: "))
 num2=int(input("Enter second value: "))
