@@ -1,6 +1,8 @@
 #Faulty Calculator
 #faulty values: 45*3=555, 56+9=77,56/6=4
 
+print("\n\t---Welcome to Faulty Calculator---")
+
 num1=int(input("Enter first value: "))
 num2=int(input("Enter second value: "))
 op=input("Enter operetor: ")
